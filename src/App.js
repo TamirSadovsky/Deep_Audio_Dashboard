@@ -26,7 +26,7 @@ import groundTruthAudio8 from './ground_truth_audio_8.wav';
 import groundTruthAudio9 from './ground_truth_audio_9.wav';
 import groundTruthAudio10 from './ground_truth_audio_10.wav';
 
-import trainCheck from './Train_Loss.jpeg';
+import trainCheck from './Train_Loss.png';
 import image from './image.png';
 
 // Overview Component
