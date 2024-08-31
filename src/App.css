@@ -285,14 +285,11 @@ audio {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .training-graph1 {
-  width: 65%; /* Adjust width to ensure consistency */
-  height: 0%; /* Maintain aspect ratio */
-  margin-bottom: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+  max-width: 600px; /* Adjust as needed */
+  margin: 0 auto;
+  display: block;
 }
 
 @media (max-width: 768px) {
