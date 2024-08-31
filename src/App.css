@@ -277,8 +277,8 @@ audio {
 }
 
 .training-graph {
-  width: 61%; /* Adjust width to ensure consistency */
-  height: 10%; /* Maintain aspect ratio */
+  width: 49.8%; 
+  height: 10%; 
   margin-bottom: 1rem;
   margin-left: 1rem;
   border-radius: 8px;
@@ -286,14 +286,14 @@ audio {
 }
 .training-graph1 {
   width: 100%;
-  height: auto;
-  max-width: 600px; /* Adjust as needed */
+  height: 50%;
+  max-width: 600px; 
   margin: 0 auto;
   display: block;
 }
 
 @media (max-width: 768px) {
   .training-graph {
-    width: 10%; /* Full width on smaller screens */
+    width: 10%; 
   }
 }
